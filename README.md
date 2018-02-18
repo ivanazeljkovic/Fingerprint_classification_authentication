@@ -1,4 +1,5 @@
 Link ka zip arhivi sa dataset-om: <br>
+Link ka zip arhivi sa procesiranim dataset-om: <br>
 Link ka zip arhivi sa pretreniranim modelom: 
 
 Dataset i model su na google drive-u zbog velicine (vise od 50MB). 
